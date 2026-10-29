@@ -93,13 +93,7 @@ isFull(): Checks if the stack has reached its maximum capacity of 10.
 
 Screenshot
 
-
-
-
-
-
-
-
+![My Screenshot](1793250871615.jpg)
 
 
 
