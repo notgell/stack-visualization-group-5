@@ -4,10 +4,10 @@ Group Name
 Group 5
 
 Group Members: 
-Mariano,Gellan V.,
-Nerie,Bayking,
-Ray,Sibal,
-Manlangit,Jerremin
+Mariano Gellan V,
+Nerie Bayking,
+Ray Sibal,
+Manlangit Jerremin
 
 
 Description of the Program
