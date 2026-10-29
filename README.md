@@ -7,7 +7,7 @@ Group Members
 Mariano, Gellan V.
 Nerie, Bayking
 Ray, Sibal
-Manlangit, Jerremin
+Manlangit,Jerremin
 
 
 Description of the Program
